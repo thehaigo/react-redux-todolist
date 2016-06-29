@@ -1,21 +1,15 @@
-## Install
+## Description
 
-First, clone the repo via git:
+[electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate).
+[React Redux勝手にチュートリアル(TODO List)](http://uraway.hatenablog.com/entry/2016/02/12/182048).  
+electron-react-boilerplateを使用して上記Todo Listを作成
 
-```bash
-git clone https://github.com/chentsulin/electron-react-boilerplate.git your-project-name
-```
-
-And then install dependencies.
+## Setup
 
 ```bash
-$ cd your-project-name && npm install
+$  npm install
 ```
-
-
 ## Run
-
-Run this two commands __simultaneously__ in different console tabs.
 
 ```bash
 $ npm run hot-server
